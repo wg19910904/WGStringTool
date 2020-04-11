@@ -1,0 +1,6 @@
+framework module Pods_WGStringTool_Example {
+  umbrella header "Pods-WGStringTool_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

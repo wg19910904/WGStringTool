@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - WGStringTool (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - WGStringTool (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  WGStringTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  WGStringTool: 4a7abaf89d4e8f97f82d3fc941c9b26c8e3bff10
+
+PODFILE CHECKSUM: c218b6728c4815e4ecb5dfdce57444ab86492ca9
+
+COCOAPODS: 1.9.1

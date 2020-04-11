@@ -1,0 +1,6 @@
+framework module WGStringTool {
+  umbrella header "WGStringTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
